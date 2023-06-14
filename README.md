@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nihad Prakarsh</h1>
-<h3 align="center">Currently working with MERN stack</h3>
+<h3 align="center">Competitive Programming & MERN</h3>
 
 - 🌱 I’m currently working with **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nihadprakarsh](https://github.com/nihadprakarsh)
 
-- 💬 Good Experience in **Competitive Programming & Algorithms**
+- 💬 Good Experience in **Competitive Programming & Algorithms Problem Solving**
 
 - 📫 Reach me at **nihadprakarsh@outlook.com**
 
