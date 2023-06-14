@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nihad Prakarsh</h1>
+<h1 align="center">Hi 👋, I'm Nihad</h1>
 <h3 align="center">Competitive Programming & MERN</h3>
 
 - 🌱 I’m currently working with **MERN Stack**
