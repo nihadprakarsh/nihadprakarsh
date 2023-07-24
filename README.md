@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nihadprakarsh](https://github.com/nihadprakarsh)
 
-- 💬 Good Experience in **Competitive Programming & Algorithmic Problem Solving**
+- 💬 Good Experience with **Competitive Programming & Algorithmic Problem Solving**
 
 - 📫 Reach me at **nihadprakarsh@outlook.com**
 
