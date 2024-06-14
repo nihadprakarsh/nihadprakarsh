@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihad</h1>
-<h3 align="center">Competitive Programming & MERN</h3>
+<h3 align="center">Competitive Programming & MERN stack developer</h3>
 
 - 🌱 I’m currently working with **MERN Stack**
 
