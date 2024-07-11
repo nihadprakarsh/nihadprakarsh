@@ -7,7 +7,7 @@
 
 - 💬 Good Experience with **Competitive Programming & Algorithmic Problem Solving**
 
-- 📫 Reach me at **nihadprakarsh@outlook.com**
+- 📫 Reach me at **nihadprakarsh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
