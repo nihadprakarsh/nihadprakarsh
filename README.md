@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihad</h1>
 <h3 align="center">Competitive Programmer & MERN Stack Developer</h3>
 
-- 🌱 I’m currently working with **MERN Stack**
+- 🌱 I’m currently working with Java & Spring Boot
 
 - 👨‍💻 All of my projects are available at [https://github.com/nihadprakarsh](https://github.com/nihadprakarsh)
 
